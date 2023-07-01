@@ -131,7 +131,25 @@ sections:
           organization_url: https://www.coursera.org
           title: Machine Learning
           url: 'https://www.coursera.org/learn/machine-learning'
-      
+
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/L9KBH2VY52EP
+          date_end: '2020-10-01'
+          date_start: '2020-09-02'
+          description: 'Generic mathematically rich introduction to the celebrated theory.'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Introduction into General Theory of Relativity
+          url: 'https://www.coursera.org/learn/general-relativity'
+    
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/U77BPL78U67E
+          date_end: '2020-07-01'
+          date_start: '2020-03-01'
+          description: 'Includes main concepts of the theory of stochastic processes and provide some ideas for its application to the solution of various problems in economics, finance, and other related fields.'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Stochastic processes
+          url: 'https://www.coursera.org/learn/stochasticprocesses'
+    
     design:
       columns: '2'
 
