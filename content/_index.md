@@ -157,16 +157,6 @@ sections:
           organization_url: https://www.coursera.org
           title: Advanced Trading Algorithms
           url: 'https://www.coursera.org/learn/advanced-trading-algorithms'
-
-
-        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/U77BPL78U67E
-          date_end: '2020-07-01'
-          date_start: '2020-03-01'
-          description: 'Includes main concepts of the theory of stochastic processes and provide some ideas for its application to the solution of various problems in economics, finance, and other related fields.'
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Non-Equilibrium Applications of Statistical Thermodynamics
-          url: 'https://www.coursera.org/learn/stochasticprocesses'
     
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/U8FC5WTV3BV9
           date_end: '2020-06-01'
@@ -176,6 +166,28 @@ sections:
           organization_url: https://www.coursera.org
           title: Statistical Thermodynamics Specialization
           url: 'https://www.coursera.org/specializations/statistical-thermodynamics-engineering'
+    
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/EE4PWNNYXHUK
+          date_end: '2020-10-01'
+          date_start: '2020-09-01'
+          description: 'This course offers a brief introduction to classic and contemporary social psychology, covering topics such as decision making, persuasion, group behavior, personal attraction, and factors that promote health and well-being.'
+          organization: Coursera and Wesleyan University
+          organization_url: https://www.coursera.org
+          title: Social Psychology (with Honors)
+          url: 'https://www.coursera.org/learn/social-psychology'
+
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/U77BPL78U67E
+          date_end: '2020-07-01'
+          date_start: '2020-03-01'
+          description: 'Includes main concepts of the theory of stochastic processes and provide some ideas for its application to the solution of various problems in economics, finance, and other related fields.'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Non-Equilibrium Applications of Statistical Thermodynamics
+          url: 'https://www.coursera.org/learn/stochasticprocesses'
+
+
+    
+
     design:
       columns: '2'
 
