@@ -148,34 +148,6 @@ sections:
           organization_url: https://www.coursera.org
           title: Stochastic processes
           url: 'https://www.coursera.org/learn/stochasticprocesses'
-    
-        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/76UWGJYDGDM9
-          date_end: '2020-07-01'
-          date_start: '2020-06-01'
-          description: 'This course will provide back test results for all the strategies in developed and emerging markets. Furthur, scientific ways of back testing without succumbing to either look ahead (or) survival bias will also be looked into.'
-          organization: Coursera and Indian School of Business
-          organization_url: https://www.coursera.org
-          title: Advanced Trading Algorithms
-          url: 'https://www.coursera.org/learn/advanced-trading-algorithms'
-    
-        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/U8FC5WTV3BV9
-          date_end: '2020-06-01'
-          date_start: '2020-02-01'
-          description: 'The use of the postulatory approach to introducing fundamental concepts and the very clear connection between macroscopic and microscopic thermodynamics. By introducing basic ideas using postulates, students are given a very straightforward way to think about important concepts, including entropy and temperature, ensembles and quantum mechanics. '
-          organization: Coursera and University of Colorado
-          organization_url: https://www.coursera.org
-          title: Statistical Thermodynamics Specialization
-          url: 'https://www.coursera.org/specializations/statistical-thermodynamics-engineering'
-    
-        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/EE4PWNNYXHUK
-          date_end: '2020-10-01'
-          date_start: '2020-09-01'
-          description: 'This course offers a brief introduction to classic and contemporary social psychology, covering topics such as decision making, persuasion, group behavior, personal attraction, and factors that promote health and well-being.'
-          organization: Coursera and Wesleyan University
-          organization_url: https://www.coursera.org
-          title: Social Psychology (with Honors)
-          url: 'https://www.coursera.org/learn/social-psychology'
-
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/UYAM2EUE3N8G
           date_end: '2020-07-01'
           date_start: '2020-06-01'
@@ -184,7 +156,30 @@ sections:
           organization_url: https://www.coursera.org
           title: Non-Equilibrium Applications of Statistical Thermodynamics
           url: 'https://www.coursera.org/learn/stats-thermo-non-equilibrium-applications'
-
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/U8FC5WTV3BV9
+          date_end: '2020-06-01'
+          date_start: '2020-02-01'
+          description: 'The use of the postulatory approach to introducing fundamental concepts and the very clear connection between macroscopic and microscopic thermodynamics. By introducing basic ideas using postulates, students are given a very straightforward way to think about important concepts, including entropy and temperature, ensembles and quantum mechanics. '
+          organization: Coursera and University of Colorado
+          organization_url: https://www.coursera.org
+          title: Statistical Thermodynamics Specialization
+          url: 'https://www.coursera.org/specializations/statistical-thermodynamics-engineering'
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/76UWGJYDGDM9
+          date_end: '2020-07-01'
+          date_start: '2020-06-01'
+          description: 'This course will provide back test results for all the strategies in developed and emerging markets. Furthur, scientific ways of back testing without succumbing to either look ahead (or) survival bias will also be looked into.'
+          organization: Coursera and Indian School of Business
+          organization_url: https://www.coursera.org
+          title: Advanced Trading Algorithms
+          url: 'https://www.coursera.org/learn/advanced-trading-algorithms'       
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/EE4PWNNYXHUK
+          date_end: '2020-10-01'
+          date_start: '2020-09-01'
+          description: 'This course offers a brief introduction to classic and contemporary social psychology, covering topics such as decision making, persuasion, group behavior, personal attraction, and factors that promote health and well-being.'
+          organization: Coursera and Wesleyan University
+          organization_url: https://www.coursera.org
+          title: Social Psychology (with Honors)
+          url: 'https://www.coursera.org/learn/social-psychology'
     design:
       columns: '2'
 
@@ -196,29 +191,21 @@ sections:
       items:
         - title: Int. M.Sc. (5 Years)
           company: UM-DAE CEBS
-          company_url: 'https://www.kit.edu/index.php'
+          company_url: 'https://www.cbs.ac.in/'
           company_logo: cbslogo
           location: Mumbai, India
           date_start: '2018-07-01'
           date_end: '2023-06-01'
-          description: Merit Based Govt. of INDIA Institution (NEST Score based).<br>Cumulative GPA – 8.59.
+          description: Merit Based Govt. of INDIA Institution (NEST AIR - 72).<br>Cumulative GPA – 8.59.
     
-        - title: Project Student
-          company: TIFR
-          company_url: 'https://www.tifr.res.in/'
-          company_logo: tifrlogo
-          location: Mumbai, India
-          date_start: '2019-06-01'
-          date_end: '2020-12-31'
-          description: NIUS project on Theory of unconventional superconductivity under Prof. Rajdeep Sensarma.
-        - title: Research Student
-          company: HBCSE
-          company_url: 'https://www.cbs.ac.in/'
-          company_logo: hbcse
-          location: Mumbai, India
-          date_start: '2019-06-29'
-          date_end: '2019-06-01'
-          description: NIUS camp invited to learn under some of the best researchers as well as have hands-on experience on some of the state-of-art instruments and experimental techniques.
+        - title: Schooling
+          company: Jawahar Navodaya Vidyalaya
+          company_url: 'https://www.navodaya.gov.in/nvs/nvs-school/ERNAKULAM/en/about_us/About-JNV/'
+          company_logo: jnvlogo
+          location: Ernakulam, India
+          date_start: '2011-06-01'
+          date_end: '2017-07-25'
+          description: Merit Based Govt. of INDIA Boarding School (CBSE).<br>Passed 12th with distinction of 94.8 %.
     design:
       columns: '2'
 
