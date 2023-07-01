@@ -1,16 +1,16 @@
 ---
-title: Unconventional Superconductivity
-summary: Reading project on Theory of Unconventional Superconductivity as part of NIUS program. Required insights into Bogoliubov transformations,  Path Integrals, Greens functions among other mathematical tools for understanding the spin coupled Cooper pairing.
-tags:
+title: Database GUI design.
+summary: An inbuild python library based GUI designed on Tkinder having implemented using multithreading. Features include data logging, advanced filtering, persistent storage and admin credential based modification features among other things.
   - condensed
   - math
+    
 cmp date: '2020-12-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'uploads/nius_unconventional_superconductivity.pdf'
+external_link: 'https://github.com/YouFoundJK/CollageDatabaseGUI.git'
 
 image:
-  caption: Photo by Berkeley Labs
+  caption: Photo by YouFoundJK (github)
   focal_point: Smart
 
 # links:
@@ -18,8 +18,8 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: 'uploads/nius_unconventional_superconductivity.pdf'
+url_code: 'https://github.com/YouFoundJK/CollageDatabaseGUI.git'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
@@ -31,4 +31,4 @@ url_video: ''
 # slides: example
 ---
 
-Unconventional Superconductivity
+College Database
