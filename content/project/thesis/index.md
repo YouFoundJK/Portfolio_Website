@@ -5,7 +5,8 @@ summary: Project involved designing and standardizing a step-by-step procedure f
 tags:
   - hetero
   - condensed
-cmp date: '2022-12-29T00:00:00Z'
+# date: '2022-12-29T00:00:00Z'
+date: '2022-12-29'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
