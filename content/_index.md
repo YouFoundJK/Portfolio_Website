@@ -101,7 +101,7 @@ sections:
           company_logo: cbslogo
           location: Mumbai, India
           date_start: '2021-08-01'
-          date_end: '2023-06-31'
+          date_end: '2023-06-01'
           description: NIUS project on Theory of unconventional superconductivity under Prof. Rajdeep Sensarma.
     design:
       columns: '2'
