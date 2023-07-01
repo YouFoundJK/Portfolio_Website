@@ -122,6 +122,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+    
         - certificate_url: ''
           date_end: '2021-07-01'
           date_start: ''
@@ -130,33 +131,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Machine Learning
           url: 'https://www.coursera.org/learn/machine-learning'
-        
-        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/L9KBH2VY52EP
-          date_end: '2020-10-01'
-          date_start: '2020-09-02'
-          description: 'Generic mathematically rich introduction to the celebrated theory.'
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Introduction into General Theory of Relativity
-          url: 'https://www.coursera.org/learn/general-relativity'
-    
-        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/U77BPL78U67E
-          date_end: '2021-03-01'
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Stochastic processes
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+      
     design:
       columns: '2'
 
