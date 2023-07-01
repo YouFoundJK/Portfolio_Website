@@ -95,14 +95,15 @@ sections:
           date_start: '2019-06-01'
           date_end: '2020-12-31'
           description: NIUS project on Theory of unconventional superconductivity under Prof. Rajdeep Sensarma.
+          
         - title: Research Student
-          company: UM-DAE CEBS
+          company: HBCSE
           company_url: 'https://www.cbs.ac.in/'
-          company_logo: cbslogo
+          company_logo: hbcse
           location: Mumbai, India
-          date_start: '2021-08-01'
-          date_end: '2023-06-01'
-          description: NIUS project on Theory of unconventional superconductivity under Prof. Rajdeep Sensarma.
+          date_start: '2019-06-29'
+          date_end: '2019-06-01'
+          description: Full Time student. Numerous projects as part of coursework or otherwise.
     design:
       columns: '2'
             
@@ -121,6 +122,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+    
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/L9KBH2VY52EP
           date_end: '2020-10-01'
           date_start: ''
