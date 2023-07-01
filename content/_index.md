@@ -283,12 +283,13 @@ sections:
       # Choose a layout view
 #      view: compact
 #      columns: '2'
+
   
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+#  - block: tag_cloud
+#    content:
+#      title: Popular Topics
+#    design:
+#      columns: '2'
     
   - block: contact
     id: contact
