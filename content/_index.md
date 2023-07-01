@@ -133,7 +133,7 @@ sections:
         
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/L9KBH2VY52EP
           date_end: '2020-10-01'
-          date_start: ''
+          date_start: '2020-09-02'
           description: 'Generic mathematically rich introduction to the celebrated theory.'
           organization: Coursera
           organization_url: https://www.coursera.org
@@ -141,7 +141,7 @@ sections:
           url: 'https://www.coursera.org/learn/general-relativity'
     
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/U77BPL78U67E
-          date_end: ''
+          date_end: '2021-03-01'
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: Coursera
