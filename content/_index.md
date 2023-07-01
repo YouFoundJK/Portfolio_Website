@@ -188,6 +188,42 @@ sections:
     design:
       columns: '2'
 
+  - block: experience
+    id: education
+    content:
+      date_format: Jan 2006
+      title: Education
+      items:
+        - title: Int. M.Sc. (5 Years)
+          company: UM-DAE CEBS
+          company_url: 'https://www.kit.edu/index.php'
+          company_logo: cbslogo
+          location: Mumbai, India
+          date_start: '2018-07-01'
+          date_end: '2023-06-01'
+          description: Merit Based Govt. of INDIA Institution (NEST Score based). |-
+          Cumulative GPA – 8.59
+    
+        - title: Project Student
+          company: TIFR
+          company_url: 'https://www.tifr.res.in/'
+          company_logo: tifrlogo
+          location: Mumbai, India
+          date_start: '2019-06-01'
+          date_end: '2020-12-31'
+          description: NIUS project on Theory of unconventional superconductivity under Prof. Rajdeep Sensarma.
+        - title: Research Student
+          company: HBCSE
+          company_url: 'https://www.cbs.ac.in/'
+          company_logo: hbcse
+          location: Mumbai, India
+          date_start: '2019-06-29'
+          date_end: '2019-06-01'
+          description: NIUS camp invited to learn under some of the best researchers as well as have hands-on experience on some of the state-of-art instruments and experimental techniques.
+    design:
+      columns: '2'
+
+      
 #  - block: markdown
 #    content:
 #      title: Gallery
@@ -234,33 +270,33 @@ sections:
 #      columns: '2'
 #      view: compact
 
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+#  - block: collection
+#    id: posts
+#    content:
+#      title: Recent Posts
+#      subtitle: ''
+#      text: ''
+#      # Choose how many pages you would like to display (0 = all pages)
+#      count: 5
+#      # Filter on criteria
+#      filters:
+#        folders:
+#          - post
+#        author: ""
+#        category: ""
+#        tag: ""
+#        exclude_featured: false
+#        exclude_future: false
+#        exclude_past: false
+#        publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+#      offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+#      order: desc
+#    design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+#      view: compact
+#      columns: '2'
   
   - block: tag_cloud
     content:
@@ -274,7 +310,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to leave a message and get in touch
+        Feel free to leave a message and get in touch:
       # Contact (add or remove contact options as necessary)
 #      email: test@example.org
 #      phone: 888 888 88 88
