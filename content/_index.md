@@ -90,7 +90,7 @@ sections:
         - title: Project Student
           company: TIFR
           company_url: 'https://www.tifr.res.in/'
-          company_logo: tifrlogo
+          company_logo: tifrlogo.png
           location: Mumbai, India
           date_start: '2019-06-01'
           date_end: '2020-12-31'
