@@ -75,6 +75,7 @@ sections:
     content:
       date_format: Jan 2006
       title: Experience
+      subtitle: '“It’s not what you achieve, it’s what you overcome. That’s what defines your career."<br> —Carlton Fisk'
 #      filters:
 #        folders:
 #          - experience
@@ -112,7 +113,7 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       # title: 'Accomplish&shy;ments'
       title: 'Certification'
-      subtitle: 'Come on buddy lets do it'
+      subtitle: '“The only way to do great work is to love what you do.”<br> - Steve Jobs'
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -188,6 +189,7 @@ sections:
     content:
       date_format: Jan 2006
       title: Education
+      subtitle: '“The purpose of education is to make minds not careers.”<br> - William Deresiewicz'
       items:
         - title: Int. M.Sc. (5 Years)
           company: UM-DAE CEBS
@@ -198,7 +200,7 @@ sections:
           date_end: '2023-06-01'
           description: Merit Based Govt. of INDIA Institution (NEST AIR - 72).<br>Cumulative GPA – 8.59.
     
-        - title: Schooling
+        - title: Schooling (7 Years)
           company: Jawahar Navodaya Vidyalaya
           company_url: 'https://www.navodaya.gov.in/nvs/nvs-school/ERNAKULAM/en/about_us/About-JNV/'
           company_logo: jnvlogo
