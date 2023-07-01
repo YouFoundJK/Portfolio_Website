@@ -75,7 +75,7 @@ sections:
     content:
       date_format: Jan 2006
       title: Experience
-      subtitle: '“It’s not what you achieve, it’s what you overcome. That’s what defines your career."<br> —Carlton Fisk'
+      subtitle: '“It’s not what you achieve, it’s what you overcome. That’s what defines your career."<br>      —Carlton Fisk'
 #      filters:
 #        folders:
 #          - experience
@@ -113,7 +113,7 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       # title: 'Accomplish&shy;ments'
       title: 'Certification'
-      subtitle: '“The only way to do great work is to love what you do.”<br> - Steve Jobs'
+      subtitle: '“The only way to do great work is to love what you do.”<br>      - Steve Jobs'
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -189,7 +189,7 @@ sections:
     content:
       date_format: Jan 2006
       title: Education
-      subtitle: '“The purpose of education is to make minds not careers.”<br> - William Deresiewicz'
+      subtitle: '“The purpose of education is to make minds not careers.”<br>     - William Deresiewicz'
       items:
         - title: Int. M.Sc. (5 Years)
           company: UM-DAE CEBS
@@ -212,14 +212,14 @@ sections:
       columns: '2'
 
       
-#  - block: markdown
-#    content:
-#      title: Gallery
-#      subtitle: ''
-#      text: |-
-#        {{< gallery album="demo" >}}
-#    design:
-#      columns: '1'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
     
 #  - block: collection
 #    id: featured
