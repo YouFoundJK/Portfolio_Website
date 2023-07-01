@@ -125,7 +125,7 @@ sections:
     
         - certificate_url: ''
           date_end: '2021-07-01'
-          date_start: ''
+          date_start: '2021-05-01'
           description: 'Broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), among others.'
           organization: Stanford University | Coursera
           organization_url: https://www.coursera.org
