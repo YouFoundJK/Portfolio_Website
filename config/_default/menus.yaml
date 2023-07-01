@@ -22,8 +22,8 @@ main:
   - name: Certifications
     url: '#accomplishments'
     weight: 40
-  - name: Posts
-    url: '#posts'
+  - name: Education
+    url: '#education'
     weight: 50
   - name: Contact
     url: '#contact'
