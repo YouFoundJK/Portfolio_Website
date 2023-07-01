@@ -176,17 +176,14 @@ sections:
           title: Social Psychology (with Honors)
           url: 'https://www.coursera.org/learn/social-psychology'
 
-        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/U77BPL78U67E
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/UYAM2EUE3N8G
           date_end: '2020-07-01'
-          date_start: '2020-03-01'
-          description: 'Includes main concepts of the theory of stochastic processes and provide some ideas for its application to the solution of various problems in economics, finance, and other related fields.'
-          organization: Coursera
+          date_start: '2020-06-01'
+          description: 'Explores three different applications of non-equilibrium statistical thermodynamics: 1. transport of ideal gas, 2. use of Spectroscopy to determine thermodynamics and flow properties of fluids and 3. Chemical Kinetics.'
+          organization: Coursera and University of Colorado
           organization_url: https://www.coursera.org
           title: Non-Equilibrium Applications of Statistical Thermodynamics
-          url: 'https://www.coursera.org/learn/stochasticprocesses'
-
-
-    
+          url: 'https://www.coursera.org/learn/stats-thermo-non-equilibrium-applications'
 
     design:
       columns: '2'
