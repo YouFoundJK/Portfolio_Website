@@ -201,8 +201,7 @@ sections:
           location: Mumbai, India
           date_start: '2018-07-01'
           date_end: '2023-06-01'
-          description: Merit Based Govt. of INDIA Institution (NEST Score based). |-
-          Cumulative GPA – 8.59
+          description: Merit Based Govt. of INDIA Institution (NEST Score based).<br>Cumulative GPA – 8.59.
     
         - title: Project Student
           company: TIFR
