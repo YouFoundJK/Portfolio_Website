@@ -79,30 +79,19 @@ sections:
 #        folders:
 #          - experience
       items:
-        - title: Research Student
-          company: KIT
-          company_url: 'https://www.kit.edu/index.php'
-          company_logo: kitlogo
-          location: Karlsruhe, Germany
-          date_start: '2022-07-01'
-          date_end: '2022-12-01'
-          description: Master's Thesis on Designing twisted Bilayer Graphene Devices under Dr. Romain Danneau, INT.
-        - title: Project Student
-          company: TIFR
-          company_url: 'https://www.tifr.res.in/'
-          company_logo: tifrlogo
-          location: Mumbai, India
-          date_start: '2019-06-01'
-          date_end: '2020-12-31'
-          description: NIUS project on Theory of unconventional superconductivity under Prof. Rajdeep Sensarma.
-        - title: Research Student
-          company: UM-DAE CEBS
-          company_url: '[https://www.tifr.res.in/](https://www.cbs.ac.in/)'
-          company_logo: cbslogo
-          location: Mumbai, India
-          date_start: '2021-08-01'
-          date_end: '2023-06-31'
-          description: NIUS project on Theory of unconventional superconductivity under Prof. Rajdeep Sensarma.
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
     design:
       columns: '2'
             
