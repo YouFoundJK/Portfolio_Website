@@ -38,6 +38,7 @@ sections:
   - block: portfolio
     id: projects
     content:
+      date_format: Jan 2006
       title: Projects
       filters:
         folders:
@@ -72,6 +73,7 @@ sections:
   - block: experience
     id: experience
     content:
+      date_format: Jan 2006
       title: Experience
 #      filters:
 #        folders:
@@ -92,6 +94,14 @@ sections:
           location: Mumbai, India
           date_start: '2019-06-01'
           date_end: '2020-12-31'
+          description: NIUS project on Theory of unconventional superconductivity under Prof. Rajdeep Sensarma.
+        - title: Research Student
+          company: UM-DAE CEBS
+          company_url: '[https://www.tifr.res.in/](https://www.cbs.ac.in/)'
+          company_logo: cbslogo
+          location: Mumbai, India
+          date_start: '2021-08-01'
+          date_end: '2023-06-31'
           description: NIUS project on Theory of unconventional superconductivity under Prof. Rajdeep Sensarma.
     design:
       columns: '2'
