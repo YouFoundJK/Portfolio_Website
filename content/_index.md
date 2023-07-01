@@ -122,15 +122,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-    
+        - certificate_url: ''
+          date_end: '2021-07-01'
+          date_start: ''
+          description: 'Broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), among others.'
+          organization: Stanford University | Coursera
+          organization_url: https://www.coursera.org
+          title: Machine Learning
+          url: 'https://www.coursera.org/learn/machine-learning'
+        
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/L9KBH2VY52EP
           date_end: '2020-10-01'
           date_start: ''
-          description: ''
+          description: 'Generic mathematically rich introduction to the celebrated theory.'
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Introduction into General Theory of Relativity
-          url: ''
+          url: 'https://www.coursera.org/learn/general-relativity'
     
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/U77BPL78U67E
           date_end: ''
