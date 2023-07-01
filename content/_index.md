@@ -90,7 +90,7 @@ sections:
         - title: Project Student
           company: TIFR
           company_url: 'https://www.tifr.res.in/'
-          company_logo: cbslogo
+          company_logo: tifrlogo
           location: Mumbai, India
           date_start: '2019-06-01'
           date_end: '2020-12-31'
@@ -103,7 +103,7 @@ sections:
           location: Mumbai, India
           date_start: '2019-06-29'
           date_end: '2019-06-01'
-          description: Full Time student. Numerous projects as part of coursework or otherwise.
+          description: NIUS camp invited to learn under some of the best researchers as well as have hands-on experience on some of the state-of-art instruments and experimental techniques.
     design:
       columns: '2'
             
