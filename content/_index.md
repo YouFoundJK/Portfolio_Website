@@ -219,7 +219,7 @@ sections:
       text: |-
         {{< gallery album="demo" >}}
     design:
-      columns: '1'
+      columns: ''
     
 #  - block: collection
 #    id: featured
