@@ -90,7 +90,7 @@ sections:
         - title: Project Student
           company: TIFR
           company_url: 'https://www.tifr.res.in/'
-          company_logo: cbslogo1
+          company_logo: cbslogo
           location: Mumbai, India
           date_start: '2019-06-01'
           date_end: '2020-12-31'
@@ -105,7 +105,7 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       # title: 'Accomplish&shy;ments'
       title: 'Certification'
-      subtitle:
+      subtitle: 'Come on buddy lets do it'
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
