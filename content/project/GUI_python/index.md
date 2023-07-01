@@ -1,8 +1,9 @@
 ---
 title: Database GUI design.
 summary: An inbuild python library based GUI designed on Tkinder having implemented using multithreading. Features include data logging, advanced filtering, persistent storage and admin credential based modification features among other things.
-  - condensed
-  - math
+
+tags:
+  - Computational
     
 cmp date: '2020-12-23T00:00:00Z'
 
