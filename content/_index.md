@@ -6,19 +6,18 @@ type: landing
 
 sections:
   - block: about.biography
+    # id used to correlate the menu entries
     id: about
     content:
       title: Hi!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    
     design:
       background:
         gradient_end: '#3E3347'
         gradient_start: '#4D3F59'
         text_color_light: true
-
-    
+   
 #  - block: features
 #    content:
 #      title: Skills
