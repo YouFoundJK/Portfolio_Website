@@ -127,8 +127,8 @@ sections:
           date_end: '2021-07-01'
           date_start: '2021-05-01'
           description: 'Broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), among others.'
-          organization: Stanford University | Coursera
-          organization_url: https://www.coursera.org
+          organization: Coursera and Stanford
+          organization_url: 'https://www.coursera.org'
           title: Machine Learning
           url: 'https://www.coursera.org/learn/machine-learning'
 
@@ -137,7 +137,7 @@ sections:
           date_start: '2020-09-02'
           description: 'Generic mathematically rich introduction to the celebrated theory.'
           organization: Coursera
-          organization_url: https://www.coursera.org
+          organization_url: 'https://www.coursera.org'
           title: Introduction into General Theory of Relativity
           url: 'https://www.coursera.org/learn/general-relativity'
     
