@@ -4,7 +4,7 @@ summary: Theoretical analysis of the microinstabilities involved in Hall Thruste
 tags:
   - Plasma
   - math
-lastmod: '2022-05-15T00:00:00Z'
+lastmod: '2022-06-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
