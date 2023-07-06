@@ -4,7 +4,7 @@ summary: Reading Project on the Mathematical framework of Classical Mechanics. I
 
 tags:
   - Math
-cmp date: '2021-12-22T00:00:00Z'
+lastmod: '2021-12-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
