@@ -20,7 +20,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: 'uploads/plasma_I.pdf'
-url_slides: ''
+url_slides: 'uploads/plasma_I_slides.pdf'
 url_video: ''
 
 # Slides (optional).
