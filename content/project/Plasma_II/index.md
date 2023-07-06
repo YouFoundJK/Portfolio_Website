@@ -4,7 +4,9 @@ summary: This Numerical analysis of the General Dispersion relation for Hall Thr
 tags:
   - Plasma
   - Computational
-cmp date: '2023-06-30T00:00:00Z'
+
+
+lastmod: '2023-06-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
