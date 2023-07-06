@@ -7,7 +7,7 @@ tags:
   - condensed
 # date: '2022-12-29T00:00:00Z'
 date: '2022-11-29'
-lastmod: '2022-30-12'
+lastmod: '2022-12-30'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
