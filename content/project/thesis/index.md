@@ -23,7 +23,7 @@ links:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: 'uploads/thesis_tBLG.pdf'
-url_slides: ''
+url_slides: 'uploads/thesis_defence_slides.pdf'
 url_video: ''
 
 # Slides (optional).
