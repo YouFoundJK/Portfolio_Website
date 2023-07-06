@@ -21,7 +21,7 @@ image:
     
 url_code: ''
 url_pdf: 'uploads/plasma_II.pdf'
-url_slides: ''
+url_slides: 'uploads/plasma_II_slides.pdf'
 url_video: ''
 
 # Slides (optional).
