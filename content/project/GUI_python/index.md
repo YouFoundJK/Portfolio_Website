@@ -5,7 +5,7 @@ summary: An inbuild python library based GUI designed on Tkinder having implemen
 tags:
   - Computational
     
-cmp date: '2020-12-23T00:00:00Z'
+cmp date: '2023-03-23T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/YouFoundJK/CollageDatabaseGUI.git'
