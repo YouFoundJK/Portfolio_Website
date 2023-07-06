@@ -10,7 +10,7 @@ cmp date: '2021-12-22T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo from Wikipedia
   focal_point: Smart
 
 # links:
