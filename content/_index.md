@@ -183,7 +183,7 @@ sections:
           url: 'https://www.coursera.org/learn/social-psychology'
         - certificate_url: uploads/qiqt_certificate.pdf
           date_end: '2023-07-15'
-          date_start: '2023-02-08'
+          date_start: '2023-05-08'
           description: '(QIQT -2023) is the fourth in the series of workshops conducted in the summer months at the IISER-K. It intends to bring together the leading experts in the field face to face with the students and young researchers in this exciting field of research. The experts include Physicists, Chemists, Mathematicians, Computer Scientists, and Engineers.'
           organization: IISER Kolkata
           organization_url: https://www.iiserkol.ac.in/web/en/#gsc.tab=0
