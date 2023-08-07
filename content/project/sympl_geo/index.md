@@ -20,7 +20,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: '/uploads/symplectic_geometry.pdf'
-url_slides: ''
+url_slides: '/uploads/symplectic_geometry_slides.pdf'
 url_video: ''
 
 # Slides (optional).
