@@ -1,1 +1,1 @@
-This is a personal Website
+This is my developed using Hugo and deployed via Netlify.
